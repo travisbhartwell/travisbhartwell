@@ -7,22 +7,7 @@
 
 ### Skills
 
-- Python
-- Bash
-- Go
-- Java
-- Ruby
-- SQL
-- Rust
-- C
-- C++
-- Emacs Lisp
-- Lua
-- Haskell
-- Erlang
-- Common Lisp
-- Javascript
-- HTML/CSS
+- Languages: Python, Bash, Go, Java, Ruby, SQL, Rust, C, C++, Emacs Lisp, Lua, Haskell, Erlang, Common Lisp, Javascript, HTML/CSS
 - Linux: Debian, Ubuntu, Amazon Linux, NixOS
 - Linux Packaging (Debian, RedHat, and NixOS)
 - Docker
@@ -37,8 +22,7 @@
 
 ### Where to Find Me
 
-- [LinkedIn](https://www.linkedin.com/in/travisbhartwel)
+- [LinkedIn](https://www.linkedin.com/in/travisbhartwell)
 - [Twitter/X](https://twitter.com/travisbhartwell)
 - [Mastodon](https://mastodon.social/@travisbhartwell/)
 - [Email](mailto:nafai@travishartwell.net)
-
