@@ -1,16 +1,44 @@
-### Hi there 👋
+### Travis B. Hartwell
 
-<!--
-**travisbhartwell/travisbhartwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- He / Him
+- Seattle, Washington, USA
+- Most recently at AWS/Amazon
+- Deep Generalist doing Software Development and System Administration
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Bash
+- Go
+- Java
+- Ruby
+- SQL
+- Rust
+- C
+- C++
+- Emacs Lisp
+- Lua
+- Haskell
+- Erlang
+- Common Lisp
+- Javascript
+- HTML/CSS
+- Linux: Debian, Ubuntu, Amazon Linux, NixOS
+- Linux Packaging (Debian, RedHat, and NixOS)
+- Docker
+- GUI Development: GTK and Gnome (C, Python, and Haskell), Swing, SWT, and Eclipse RCP
+- General AWS technologies (S3, SQS, CloudWatch, CloudWatch Log Insights queries, etc)
+
+### Want to Learn or Dive Deep On
+
+- eBPF
+- Kubernetes
+- Implementing Compilers and Interpreters
+
+### Where to Find Me
+
+- [LinkedIn](https://www.linkedin.com/in/travisbhartwel)
+- [Twitter/X](https://twitter.com/travisbhartwell)
+- [Mastodon](https://mastodon.social/@travisbhartwell/)
+- [Email](mailto:nafai@travishartwell.net)
+
