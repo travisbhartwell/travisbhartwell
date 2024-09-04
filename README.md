@@ -3,11 +3,14 @@
 - He / Him
 - Seattle, Washington, USA
 - Most recently at AWS/Amazon
-- Deep Generalist doing Software Development and System Administration
+
+### Professional Profile
+
+Innovator. Problem-Solver. Software Engineer. Known for fixing the unfixable and driving operational efficiency by automating the disjointed and scaling the gridlocked. 15+ years experience in software packaging, dependency management, and writing custom tools and automation for everything from large-scale distributed systems to desktop GUI components and applications to general software tools. Deep expertise in infrastructure management, CI/CD pipelines and problem-solving. Proven mentor and teacher, open-source advocate and presenter at national tech conferences.
 
 ### Skills
 
-- Languages: Python, Bash, Go, Java, Ruby, SQL, Rust, C, C++, Emacs Lisp, Lua, Haskell, Erlang, Common Lisp, Javascript, HTML/CSS
+- Languages: Bash, C, C++, Common Lisp, Emacs Lisp, Erlang, Go, Haskell, HTML and CSS, Java, Javascript, Lua, Python, Ruby, Rust, SQL
 - Linux: Debian, Ubuntu, Amazon Linux, NixOS
 - Linux Packaging (Debian, RedHat, and NixOS)
 - Docker
