@@ -25,6 +25,7 @@ Innovator. Problem-Solver. Software Engineer. Known for fixing the unfixable and
 
 ### Where to Find Me
 
+- [Homepage](https://iam.travishartwell.net)
 - [Presentations and Publications](https://github.com/travisbhartwell/Presentations/blob/master/README.md)
 - [LinkedIn](https://www.linkedin.com/in/travisbhartwell)
 - [Twitter/X](https://twitter.com/travisbhartwell)
