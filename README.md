@@ -3,6 +3,7 @@
 - He / Him
 - Seattle, Washington, USA
 - Most recently at AWS/Amazon
+- Currently looking for a hybrid or on-site role in New York City, see my contact information below.
 
 ### Professional Profile
 
@@ -30,4 +31,4 @@ Innovator. Problem-Solver. Software Engineer. Known for fixing the unfixable and
 - [LinkedIn](https://www.linkedin.com/in/travisbhartwell)
 - [Twitter/X](https://twitter.com/travisbhartwell)
 - [Mastodon](https://mastodon.social/@travisbhartwell/)
-- [Email](mailto:nafai@travishartwell.net)
+- [Email](mailto:travis@travishartwell.net)
