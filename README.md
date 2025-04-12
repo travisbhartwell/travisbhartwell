@@ -23,6 +23,7 @@ Innovator. Problem-Solver. Software Engineer. Known for fixing the unfixable and
 - eBPF
 - Kubernetes
 - Implementing Compilers and Interpreters
+- Deterministic Simulation Testing
 
 ### Where to Find Me
 
