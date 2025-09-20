@@ -3,7 +3,6 @@
 - He / Him
 - Seattle, Washington, USA
 - Most recently at AWS/Amazon
-- Currently looking for a hybrid or on-site role in New York City, see my contact information below.
 
 ### Professional Profile
 
