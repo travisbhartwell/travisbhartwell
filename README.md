@@ -2,7 +2,7 @@
 
 - He / Him
 - Seattle, Washington, USA
-- Most recently at AWS/Amazon
+- Senior Software Engineer, Privacy Engineering at Shopify (All projects on this account are my private work, and are not done on behalf of my employer)
 
 ### Professional Profile
 
